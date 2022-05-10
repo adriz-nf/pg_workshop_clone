@@ -4,8 +4,7 @@ Welcome to our workshop on Python programming!
 Please click on the Binder button below to open the workshop material.
 
 Jupyter Lab:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neuefische/pg_environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fneuefische%252Fpg_workshop%26urlpath%3Dtree%252Fpg_workshop%252F%26branch%3Dmain
-)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriz-nf/pg_workshop_clone/main)
 
 In this repository we will introduce Python as alternative way to approach Data Analysis projects. Furthermore, Jupyter Notebooks are outlined in more detail as useful file format to do structured, well-documented analyses. Last but not least using Python for automating workflows will be covered in the end of this repo.
 
